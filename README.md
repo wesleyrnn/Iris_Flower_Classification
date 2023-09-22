@@ -7,14 +7,14 @@ Este é um projeto simples de classificação de flores usando aprendizado de m�
 1. Instale as dependências usando `pip`:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 2. Execute o Script `iris_classification.py` ou use o notebook para executar passo a passo
 
 ## Conjunto de Dados
 
-O conjunto de dados Iris contém medidas de comprimento e largura das pétalas e sépalas de três espécies diferentes de flores Iris: Setosa, Versicolor e Virginica. Os dados estão em data/iris.csv.
+O conjunto de dados Iris contém medidas de comprimento e largura das pétalas e sépalas de três espécies diferentes de flores Iris: Setosa, Versicolor e Virginica. Os dados estão em [data/iris.csv](data).
 
 ## Performance
 
