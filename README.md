@@ -10,7 +10,7 @@ Este é um projeto simples de classificação de flores usando aprendizado de m�
 pip3 install -r requirements.txt
 ```
 
-2. Execute o Script `iris_classification.py` ou use o notebook para executar passo a passo
+2. Execute o Script `iris_classification.py` ou use o notebook `projeto-iris.ipynb` para executar passo a passo
 
 ## Conjunto de Dados
 
