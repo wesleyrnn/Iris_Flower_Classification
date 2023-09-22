@@ -28,4 +28,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para reportar ou enviar uma
 
 ## Licença
 
-Este projeto está sob a licença MIT - consulte o arquivo LICENSE para obter detalhes.
+Este projeto está sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
