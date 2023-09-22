@@ -18,7 +18,7 @@ O conjunto de dados Iris contém medidas de comprimento e largura das pétalas e
 
 ## Performance
 
-O modelo alcançou uma precisão de 94.67% na classificação das flores Iris. A matriz de confusão abaixo mostra os resultados:
+O modelo alcançou uma precisão de **94.67%** na classificação das flores Iris. A matriz de confusão abaixo mostra os resultados:
 
 ![Alt text](performance_graph.png)
 
