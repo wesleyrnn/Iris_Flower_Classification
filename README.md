@@ -24,7 +24,7 @@ O modelo alcançou uma precisão de X% na classificação das flores Iris. A mat
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema ou enviar uma solicitação de pull.
+Contribuições são bem-vindas! Sinta-se à vontade para reportar ou enviar uma solicitação de pull.
 
 ## Licença
 
